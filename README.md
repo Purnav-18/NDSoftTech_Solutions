@@ -11,8 +11,6 @@ A full-stack inventory management web application built with React, Node.js, Exp
 
 ---
 
-## 🧰 Tech Stack
-
 ### 🚀 Frontend (React)
 - React + Bootstrap
 - React Router DOM

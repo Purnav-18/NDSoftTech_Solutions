@@ -11,27 +11,6 @@ A full-stack inventory management web application built with React, Node.js, Exp
 
 ---
 
-## 📁 Project Structure
-
-NDSoftTech_Solutions/
-├── client/ # React Frontend
-│ ├── components/
-│ ├── pages/
-│ ├── context/
-│ ├── App.jsx
-│ └── ...
-├── server/ # Express Backend
-│ ├── config/
-│ ├── controllers/
-│ ├── middlewares/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-└── README.md
-
-
----
-
 ## 🧰 Tech Stack
 
 ### 🚀 Frontend (React)
